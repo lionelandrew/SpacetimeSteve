@@ -1,0 +1,23 @@
+# Exported from Wings 3D 0.98.32a
+newmtl Metal
+Ns 100.000
+d 1.00000
+illum 2
+Kd 0.820180 0.820180 0.820180
+Ka 1.00000e-3 1.00000e-3 1.00000e-3
+Ks 0.906760 0.906760 0.906760
+Ke 0.00000e+0 0.00000e+0 0.00000e+0
+map_Bump Spear02V1_auvBump.bmp
+map_Kd Spear02V1_auv.bmp
+
+newmtl Wood
+Ns 100.000
+d 1.00000
+illum 2
+Kd 0.686980 0.686980 0.686980
+Ka 1.00000e-3 1.00000e-3 1.00000e-3
+Ks 0.520480 0.520480 0.520480
+Ke 0.00000e+0 0.00000e+0 0.00000e+0
+map_Bump Spear02V1_auvBump.bmp
+map_Kd Spear02V1_auv.bmp
+
